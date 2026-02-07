@@ -1,4 +1,3 @@
-/* ===== Global ===== */
 body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
@@ -6,7 +5,6 @@ body {
     color: #eae6ff;
 }
 
-/* ===== Navbar ===== */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -30,7 +28,6 @@ body {
     color: #c77dff;
 }
 
-/* ===== Hero ===== */
 .hero {
     display: flex;
     justify-content: space-between;
@@ -48,7 +45,6 @@ body {
     border: 3px solid #c77dff;
 }
 
-/* ===== Button ===== */
 .btn {
     display: inline-block;
     margin-top: 20px;
@@ -59,7 +55,6 @@ body {
     border-radius: 25px;
 }
 
-/* ===== Cards ===== */
 .cards {
     display: flex;
     justify-content: space-around;
@@ -74,17 +69,14 @@ body {
     backdrop-filter: blur(10px);
 }
 
-/* ===== Pages ===== */
 .page {
     padding: 50px 8%;
 }
 
-/* ===== Skills ===== */
 .skills li {
     margin: 8px 0;
 }
 
-/* ===== Table ===== */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -96,14 +88,12 @@ th, td {
     text-align: center;
 }
 
-/* ===== Images ===== */
 .gallery-img {
     width: 220px;
     border-radius: 15px;
     border: 2px solid #c77dff;
 }
 
-/* ===== Form ===== */
 .contact-form {
     max-width: 400px;
 }
@@ -125,10 +115,10 @@ button {
     cursor: pointer;
 }
 
-/* ===== Footer ===== */
 footer {
     text-align: center;
     padding: 15px;
     background: rgba(0,0,0,0.4);
     margin-top: 40px;
 }
+
